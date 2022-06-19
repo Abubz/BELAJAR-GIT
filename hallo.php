@@ -1,3 +1,3 @@
 <?php
-echo "hallo duniaku";
+echo "hallo duniaku apa kabar";
 ?>
